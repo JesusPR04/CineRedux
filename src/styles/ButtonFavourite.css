@@ -1,0 +1,44 @@
+.boton {
+    background-color: whitesmoke;
+    border: none;
+    border-radius: 100%;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px;
+    transition: color 0.3s ease;
+    height: 40px;
+    width: 40px;
+    margin-top: 3%;
+}
+
+/* Aumentar tamñao de corazon*/
+
+.boton:hover {
+    color: #ff0000;
+}
+
+.boton:active {
+    color: #ff0000;
+}
+
+.heart-button {
+    background-color: whitesmoke;
+    border-radius: 100%;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px;
+    transition: color 0.3s ease;
+}
+
+.heart-button:hover {
+    color: #ff0000;
+}
+
+.heart-button:active {
+    color: #ff0000;
+}
